@@ -7,7 +7,9 @@ Analyse exploratoire des données du célèbre dataset Titanic.
 ### Morts vs Survivants
 
 
-![Survie](titanic_1_survie.png)
+![Survie](titanic_1_survie%20(1)
+
+.png)
 
 
 
