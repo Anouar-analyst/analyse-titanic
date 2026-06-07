@@ -1,15 +1,34 @@
-# Analyse du Dataset Titanic
+# 🚢 Analyse Titanic
 
-Analyse complete du dataset Titanic avec Python, Pandas et Matplotlib.
+Analyse exploratoire des données du célèbre dataset Titanic.
 
-## Questions analysees
-- Combien de passagers ont survecu ?
-- Les femmes ont-elles survecu plus que les hommes ?
-- La classe sociale influence-t-elle la survie ?
+## 📊 Visualisations
 
-## Resultats
-- Femmes : 74% de survie vs Hommes : 19%
-- Classe 1 : 63% vs Classe 3 : 24%
+### Morts vs Survivants
 
-## Outils utilises
-- Python, Pandas, Matplotlib
+
+![Survie](titanic_1_survie.png)
+
+
+
+### Taux de survie : Femmes vs Hommes
+
+
+![Genre](titanic_2_genre.png)
+
+
+
+### Taux de survie par classe
+
+
+![Classe](titanic_3_classe.png)
+
+
+
+## 🛠️ Technologies utilisées
+- Python
+- Pandas
+- Matplotlib
+
+## 👤 Auteur
+**Chaouch Anouar** — [GitHub](https://github.com/Anouar-analyst)
